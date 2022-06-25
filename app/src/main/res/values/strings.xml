@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="dev_name">Allan Gitss_</string>
+    <string name="dev_title">Junior Android Developer</string>
+    <string name="dev_email">allandevs@gmail.com</string>
+    <string name="dev_share">Share</string>
+    <string name="dev_phone">+254 701 234 567</string>
+</resources>
